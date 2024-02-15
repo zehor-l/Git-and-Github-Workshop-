@@ -41,7 +41,7 @@ By now, normally if you refresh your github webpage in browser, you will find th
 ## How about we add a branch!🤩
 on you git branch continue typing
 
-```markdown
+```bash
 git checkout -b new-branch    # Create a new branch named 'new-branch' and switch to it.
 git branch    # Check which branch you're currently on.
 
