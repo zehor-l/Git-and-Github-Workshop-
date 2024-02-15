@@ -7,6 +7,10 @@ Git and Github Workshop practice example
 ## Creating Repository 📂
 ## On your git bash, type:
 ```bash
+# if this is your first time using git and github, type this to identify yourself for git:
+$ git config --global user.name "[username of github account]"
+$ git config --global user.email "[email of created github account]"
+# if you already did that, skip to this:
 cd Desktop    # Navigate to your Desktop.
 mkdir example    # Create a new folder named 'example'.
 cd example    # Move into the 'example' folder.
