@@ -6,6 +6,7 @@ Git and Github Workshop practice example
 ### Example1 
 ## Creating Repository 📂
 ## On your git bash, type:
+```bash
 cd Desktop    # Navigate to your Desktop.
 mkdir example    # Create a new folder named 'example'.
 cd example    # Move into the 'example' folder.
@@ -32,7 +33,7 @@ ls    # List the files in your current directory to see the changes.
 git branch
 git remote add origin ( add https adress of your created repo, or basically just copy that line you find in instructions)
 git push -u origin master
-
+```bash
 ## You did it!!🎉🥳
 By now, normally if you refresh your github webpage in browser, you will find the pushed project!
 
