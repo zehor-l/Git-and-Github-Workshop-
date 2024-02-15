@@ -31,7 +31,7 @@ ls    # List the files in your current directory to see the changes.
 # Next, you want to share your project on GitHub.
 # Go to github.com, create a new repository with same name as your folder you create, here it's example, click create repository down the page, and follow the instructions of adding existing repository to GitHub.
 git branch
-git remote add origin ( add https adress of your created repo, or basically just copy that line you find in instructions)
+git remote add origin  #add https adress of your created repo, or basically just copy that line you find in instructions
 git push -u origin master
 ```
 
