@@ -33,14 +33,15 @@ ls    # List the files in your current directory to see the changes.
 git branch
 git remote add origin ( add https adress of your created repo, or basically just copy that line you find in instructions)
 git push -u origin master
-```bash
+```
+
 ## You did it!!🎉🥳
 By now, normally if you refresh your github webpage in browser, you will find the pushed project!
 
 ## How about we add a branch!🤩
 on you git branch continue typing
 
-
+```markdown
 git checkout -b new-branch    # Create a new branch named 'new-branch' and switch to it.
 git branch    # Check which branch you're currently on.
 
@@ -49,6 +50,6 @@ git add .    # Add the CSS file to the staging area.
 git commit -m 'Add file.css'    # Save the changes with a message.
 
 git push origin new-branch    # Push your changes to the new branch on GitHub.
-
+```
 when you refresh your page, you can find your new branch clicking on branch that you can find it under your project title. An option for pull request will appear to mege the branches, you can try it and see what happens!👀
 
